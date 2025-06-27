@@ -15,6 +15,9 @@ DocAI is a powerful AI-powered Streamlit application that allows users to **uplo
 
 ---
 
+## DEMO LINK: 
+assets/DOCUAI.mp4
+
 ## 🛠️ Tech Stack
 
 | Tool              | Purpose                                      |
@@ -36,10 +39,10 @@ DocAI is a powerful AI-powered Streamlit application that allows users to **uplo
 git clone https://github.com/your-username/docai-chat-assistant.git
 cd docai-chat-assistant
 
-Install dependencies:
+2. **Install dependencies**
 pip install -r requirements.txt
 
-Create a .env file:
+3. **Create a .env file**
 HF_TOKEN=your_huggingface_token
 GROQ_API_KEY=your_groq_key
 LANGSMITH_API_KEY=your_langsmith_key
