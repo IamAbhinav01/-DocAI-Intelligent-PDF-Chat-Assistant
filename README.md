@@ -16,7 +16,7 @@ DocAI is a powerful AI-powered Streamlit application that allows users to **uplo
 ---
 
 ## DEMO LINK: 
-assets/DOCUAI.mp4
+https://github.com/IamAbhinav01/-DocAI-Intelligent-PDF-Chat-Assistant/blob/6f24a77169a390bc14551c8da25bc1222519a0db/assets/DOCUAI.mp4
 
 ## 🛠️ Tech Stack
 
